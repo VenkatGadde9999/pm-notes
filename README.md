@@ -25,4 +25,4 @@ While each sprint is planned separately, the number and length of sprints in you
 
 ### Agile Process
 
-![Agile Process](https://www.google.com/imgres?imgurl=https://blog.bydrec.com/hs-fs/hubfs/img1a.jpg?width%3D1000%26name%3Dimg1a.jpg&imgrefurl=https://blog.bydrec.com/an-in-depth-look-at-the-agile-software-development-life-cycle&tbnid=zm58rxZyuLUdBM&vet=1&docid=hxtUkSa4z0Y7dM&w=1000&h=600&source=sh/x/im)
+![Agile Process](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.micromine.com%2Fagile-development-methodology-increases-productivity-geobank%2F&psig=AOvVaw16KCOfzMhOoN7ze4kjDf8l&ust=1620932952499000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLiMvIzsxPACFQAAAAAdAAAAABAD)
