@@ -1,4 +1,9 @@
 # pm-notes
+
+# Class 03 Tasks 
+
+Created Three issues which have rised today in Init testing the devlopment and QA testing will be completed by next week and will release in next sprint
+
 # Key notes from the discussion today
 ### Agile
 Agile is a term used to describe approaches to software development emphasizing incremental delivery, team collaboration, continual planning, and continual learning. The term “Agile” was coined in 2001 in the Agile Manifesto.” Some people will say that it is just a mindset or way of thinking
